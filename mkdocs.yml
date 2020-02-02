@@ -1,19 +1,19 @@
 # Metadata
-site_name: Jelle's Character Directory
-site_description: "A character directory site containing information about original characters."
-site_author: "Jelle Zwiers"
+site_name: Dragon RP
+site_description: "The site that will help kickstart your role-play"
+site_author: "Dragon Projects"
 
 # Theming
 theme:
   name: "material"
   palette:
-    primary: "light blue"
-    accent: "light blue"
+    primary: "blue"
+    accent: "blue"
   font:
     text: "Ubuntu"
     code: "Ubuntu Mono"
   logo:
-    icon: "folder_shared"
+    icon: "book"
 
 # Extensions
 markdown_extensions:
@@ -27,8 +27,8 @@ extra_javascript:
   - "script.js"
 
 # Repository
-repo_url: "https://github.com/jelle619/jellezwie.rs"
-edit_uri: "edit/master/mkdocs/characters/docs/"
+repo_url: "https://github.com/jelle619/dragonrp"
+edit_uri: "edit/master/docs/"
 
 # Copyright
-copyright: "&copy; Jelle Z. and others"
+copyright: "&copy; Dragon Projects"
