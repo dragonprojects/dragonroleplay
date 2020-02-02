@@ -1,4 +1,4 @@
-# Welcome to the wiki of Dragon RP!
+# Welcome to Dragon RP
 This wiki contains most information about the our world that might be needed in your role-play. Please note that there may be exceptions to things stated on the wiki, especially in regards to species.
 
 As for what Dragon RP itself is, it's a role-playing forum with a unique blend of low fantasy and hard science fiction. Players start by creating their own characters, followed by a thread in which they will use those to play out stories that happen in the Dragon RP universe. Your characters can influence other player's ones and, ultimately, also the world's fate, so be careful!
