@@ -4,6 +4,17 @@ Huge, ancient and immensely powerful reptile-like creatures capable of causing a
 | Lifespan: | Immortal |
 | Inherited language: | Draconic |
 
+<table>
+  <tr>
+    <th>Lifespan</th>
+    <td>Immortal</td>
+  </tr>
+  <tr>
+    <th>Inherited language</th>
+    <td>Draconic</td>
+  </tr>
+</table>
+
 They are  intelligent, yet also stubborn. They are also not quick to trust someone, but when they do, they usually become very attached.
 
 ## Subspecies
