@@ -1,9 +1,6 @@
 # Dragons
 Huge, ancient and immensely powerful reptile-like creatures capable of causing a lot of damage, but are generally very peaceful and, luckily, rarely use their destructive abilities. Their diet usually consists of meat, but can also be seen eating other food when eating meat is not an option. Most dragons are scaled, but they may also have feathers or fur.
 
-| Lifespan: | Immortal |
-| Inherited language: | Draconic |
-
 <table>
   <tr>
     <th>Lifespan</th>
