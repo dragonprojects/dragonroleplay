@@ -1,4 +1,8 @@
-# Technology
+# Science fiction
+
+!!! warning
+    This wiki entry contains old and outdated text that may be off-topic.
+
 Generally referring to machinery and devices developed from scientific knowledge, is an incredibly powerful force that can either be used for good or evil. Whether it's better or worse than magic is debatable, but it's usually preferred by the humans. 
 
 Ever since the Faraway arrived, further development has accelerated a lot. Technology in the world of Pactbound is developed further than in our world.
