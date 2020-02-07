@@ -6,3 +6,6 @@ The universal currency that's generally accepted globally is called "Unit", also
 
 ## Territory-specific
 Territory-specific currency, TSC for short and also sometimes referred to as traditional currency, include currencies that can only be spent in certain territories like the US Dollar, Euro and Yuan. These are usually preferred by government agencies.
+
+## Precious metals
+Coming soon!
