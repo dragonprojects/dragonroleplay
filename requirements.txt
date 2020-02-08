@@ -2,3 +2,4 @@ node
 npm
 mkdocs
 mkdocs-material
+markdown
