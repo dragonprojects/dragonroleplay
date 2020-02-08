@@ -1,5 +1,5 @@
 # Humans
-Humans are four-limbed bipeds that are by far the most common creatures on earth, accounting for over half of the world's inhabitants. They are native to planet earth. Whilst they are comparatively weak on their own, their ability to create powerful tools and cooperate with others allowed them to become one of the most successful species on earth.
+Humans are four-limbed bipeds that are by far the most common creatures on earth. They are native to planet earth. Whilst they are comparatively weak on their own, their ability to create powerful tools and cooperate with others allowed them to become one of the most successful species on earth.
 
 <table>
  <tr>
