@@ -29,7 +29,7 @@ Most notably, their skin tone, hair colour and eye colour can vary. A human's sk
 Humans are unprecedented at social communication and creating large advanced societies which allows them to specialise. By combining each individual's skill, humanity is able to be a force to be dealt with despite their lack of physical strength or magic which with each passing day becomes less of a weakness thanks to one of their biggest inventions: technology.
 
 ### Technological Proficiency
-Humanity's use of technology is amongst any kind of creature the largest. Though the devices that are used nowadays are too complex to be created or manufactured by one human themselves, nearly all of them, even some infants to some extent, knows how to use it.
+Humanity's use of technology is amongst any kind of creature the largest. Though the devices that are used nowadays are too complex to be created or manufactured by one human themselves, it is exceptionally rare for a human not to make use of one.
 
 ### Magic Resistance
 Most humans offer some natural resistance to magic, making them less vulnerable to those kind of attacks but also making it nearly impossible for them use it themselves. There are, however, humans whose magical resistance has been purged, making magic just as easy to learn as it is for most other Faraway creatures. It is, despite their magical resistance, still possible to be cursed or attract diseases from the other realm, including vampirism and lycanthropy.
