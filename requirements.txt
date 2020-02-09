@@ -1,2 +1,5 @@
+python
+python3
+pip
 mkdocs
 mkdocs-material
