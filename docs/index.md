@@ -12,4 +12,4 @@ Currently, the wiki is split into the following categories:
   * Innerworkings: describes thoroughly how some things work.
   
 ## Submit new entries
-Would you like to submit or help update or add to some entries on this wiki? Let an administrator know and we will get it sorted. Thanks a lot for your support!
+Would you like to update an entry on this wiki? Use the edit button in the top-right corner of the page you would like to modify, login with your GitHub account and push the changes. They will be revieved by an administrator before published.
