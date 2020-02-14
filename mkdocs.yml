@@ -7,8 +7,8 @@ site_author: "Dragon Projects"
 theme:
   name: "material"
   palette:
-    primary: "blue"
-    accent: "blue"
+    primary: "red"
+    accent: "red"
   font:
     text: "Ubuntu"
     code: "Ubuntu Mono"
