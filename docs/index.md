@@ -48,7 +48,7 @@ We will help you get started over on Discord. Don't be ashamed to ask for help!
 
 In the meantime, browse through this wiki to learn more about the world you will be role-playing in. Also take a look at the list of species, as you will have to choose a species for your character you're going to role-play as.
 
-## Supporting Dragon RP
+## Support us
 There are a number of ways you can help.
 
 ### Be active
