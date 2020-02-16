@@ -19,14 +19,14 @@ In order to join our community, you must meet all the prescribed requirements.
 
 Due to legal legislation, we currently do not accept members younger than sixteen.
 
-* You must agree to use Discord
+* You must agree to use Discord.
 
 Create a [Discord account](https://discordapp.com/register) and join the Dragon RP [Discord server](https://discord.gg/MJ2HGkT).
 
 !!! info
     In the future, we may move away from Discord to a dedicated platform. From this point onward, you are no longer obliged to have and use your Discord account. A new account on will have to be created and you must agree to its terms and conditions to continue using Dragon RP.
     
-* You must agree to our RPG rating
+* You must agree to our RPG rating.
 
 Dragon RP enforces a rating of "313" per the [RPG Rating System](https://rpgrating.com/). This rating is described below.
 
