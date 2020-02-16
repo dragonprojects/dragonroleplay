@@ -28,7 +28,7 @@ Create a [Discord account](https://discordapp.com/register) and join the Dragon 
     
 * You must agree to our RPG rating.
 
-Dragon RP enforces a rating of "313" per the [RPG Rating System](https://rpgrating.com/). This rating is described below.
+Dragon RP enforces a rating of "3/1/3" per the [RPG Rating System](https://rpgrating.com/). This rating is described below.
 
 <table>
     <tr>
