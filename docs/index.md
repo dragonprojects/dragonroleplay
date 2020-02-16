@@ -3,7 +3,7 @@ You are currently viewing the wiki portion of the site. Thank you for visiting.
 
 ![Netlify](https://img.shields.io/netlify/371397fe-a565-4cca-aea6-75aa6e7ac531?style=for-the-badge)
 ![Last update badge](https://img.shields.io/github/last-commit/jelle619/dragonrp?label=last%20update&style=for-the-badge) ![Update activity badge](https://img.shields.io/github/commit-activity/m/jelle619/dragonrp?label=Update%20activity&style=for-the-badge)
-<img src="http://rpgrating.com/ratings/313.png" alt="RPG rating" width="79px" height="28px">
+<img src="https://rpgrating.com/ratings/313.png" alt="RPG rating" width="79px" height="28px">
 
 ## What is this?
 Dragon RP is a role-playing forum with a unique blend of fantasy and science fiction. Players start by creating their own characters, after which they can join a thread in which they will use them to play out stories that happen in the Dragon RP universe. Your characters can influence other player's ones and, ultimately, also the world's fate, so be careful!
