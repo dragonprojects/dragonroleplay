@@ -24,7 +24,7 @@ Due to legal legislation, we currently do not accept members younger than sixtee
 Create a [Discord account](https://discordapp.com/register) and join the Dragon RP [Discord server](https://discord.gg/MJ2HGkT).
 
 !!! info
-    In the future, we may move away from Discord to a dedicated platform. From this point onward, you are no longer obliged to have and use your Discord account. A new account on will have to be created and you must agree to its terms and conditions to continue using Dragon RP.
+    In the future, we may move away from Discord to a dedicated platform. From this point onward, you are no longer obliged to have and use a Discord account.
     
 * You must agree to our RPG rating.
 
