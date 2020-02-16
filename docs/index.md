@@ -43,8 +43,6 @@ Dragon RP enforces a rating of "313" per the [RPG Rating System](https://rpgrati
     </tr>
 </table>
 
-![RPG rating](https://rpgrating.com/ratings/313.png)
-
 ### What's next?
 We will help you get started over on Discord. Don't be ashamed to ask for help!
 
