@@ -2,7 +2,13 @@
 
 The phoenix are large bird-like creatures born with the ability to master one kind of elemental magic. Depending on the breed, they master fire, water, wind, light or darkness.
 
-| Inherited magic: | Elemental magic |
+<table>
+ <tr>
+  <th>Inherited magic</th>
+  <td>Elemental magic</td>
+ </tr>
+</table
+
 ## Attacks
 Depending on which kind of elemental magic one posses, their range of attacks will be slightly different. They are nearly invulnerable to attacks of their own element.
 
