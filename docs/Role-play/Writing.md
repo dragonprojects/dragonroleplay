@@ -9,6 +9,7 @@ Stick to a third person point of view in your writing. This makes it clearer to 
     He washed the dishes because they didn't want to. She looked out the window and saw the starry sky while he was doing the dishes.
     
 * No powerplay
+
 Powerplay refers to a player shifting a story into their character's (or characters') favour. This can happen in several ways, like not keeping in-world limitations, physics and logic in mind. It may also occur that one player takes control of another player's character. In the example below, a boy who only knows fire spells is for no apparant reason able to use lightning attacks. In the same sentence, it is dictated that the lightning attack lands on the female character (in this instance played by someone else) without giving her the oppurtunity to counter od dodge. 
 
 !!! example
