@@ -15,4 +15,4 @@ Powerplay refers to a player shifting a story into their character's (or charact
 !!! example
     The boy who only knew fire spells was suddenly able to hit her with a lightning attack.
     
-Powerplay is forbidden under all circumstances and must be followed by all players, inclduing narrators. If powerplay occurs, it's usually accidental! If you notice powerplay, politely inform the player of it.
+Powerplay is forbidden under all circumstances and must be followed by all players, including narrators. If powerplay occurs, it's usually accidental! If you notice powerplay, politely inform the player of it.
