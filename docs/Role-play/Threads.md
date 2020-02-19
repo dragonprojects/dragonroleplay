@@ -25,4 +25,4 @@ Quests are threads with a story that's guided by a narrator, which is also usual
 As a narrator, you will be able to control all NPCs, as well as make any unforceen event happen to the players. You can push the story into a specific direction if you like, though you cannot force it, as you cannot overrule any player character's actions. You tell the story from either an omnicient or NPCs point of view. No matter the situatin, a narrator will not be able to control (unless convinced by an NPC) or know (unless expressed by themselves) the feelings of the player characters.
 
 ### Events
-Events are simmilar to quests, except that they happen on a larger scale and have a large impact on Dragon RP's plot. The narrator, usually a stuff member, normally plays a very small role, mostly serving to setup the setting. 
+Events are simmilar to quests, except that they happen on a larger scale and have a large impact on Dragon RP's plot. The narrator, usually a staff member, normally plays a very small role, mostly serving to setup the setting. 
