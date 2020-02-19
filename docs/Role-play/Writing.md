@@ -27,6 +27,7 @@ It can be hard to use foreshaodwing in role-play as you can't completely predict
     As he listened to her discussing her day, his heart began to sink in his chest. He felt sadness and untamable hartred building up.
     
 * Use all your senses!
+
 Your character can do much more than just talk. Try to incorporate all of your senses in your role-play.
 
 !!! example
