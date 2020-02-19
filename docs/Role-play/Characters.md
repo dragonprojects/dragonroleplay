@@ -24,5 +24,5 @@ In short, if you make powerful characters, make sure you balance them accordingl
 ### Sumbitting
 Your character sheet must be contained in a markdown file.Once you have created your character information sheet, you must upload this file and submit it for approval to an administrator. We will let you know as soon as possible whether your character is approved or whether something is still missing. Once your character is approved, you can immedietly start using it in role-play!
 
-!!! question
+!!! help
     If you don't know how to create a markdown file, consider using an online editor like [Dillinger](https://dillinger.io/) and export it as a markdown file from there.
