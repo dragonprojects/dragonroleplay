@@ -16,3 +16,25 @@ Powerplay refers to a player shifting a story into their character's (or charact
     The boy who only knew fire spells was suddenly able to hit her with a lightning attack.
     
 Powerplay is forbidden under all circumstances and must be followed by all players, including narrators. If powerplay occurs, it's usually accidental! If you notice powerplay, politely inform the player of it.
+
+## General writing advice
+
+* Add some foreshadowing
+
+It can be hard to use foreshaodwing in role-play as you can't completely predict the actions of the other players. Instead, use it to foreshadow something your character will do and watch others react accordingly!
+
+!!! example
+    As he listened to her discussing her day, his heart began to sink in his chest. He felt sadness and untamable hartred building up.
+    
+* Use all your senses!
+Your character can do much more than just talk. Try to incorporate all of your senses in your role-play.
+
+!!! example
+    She walked through the vibrant field, smelling freshly cut grass and feeling the nips of the blades poking through her socks. The wind rolled through, creating an oceanic sound and a crisp flavor locked at her tongue.
+    
+* Describe your characters emotions
+
+It is important to describe not just how your character reacts physically or verbally, but also emotionally. This way, other players can more approriatly react to your actions.
+
+!!! example
+    As she looked at the statue, her smile disappeared and a tear began rolling down her cheeks. She grabbed it and smashed it, closing her eyes as she felt the emotional pain it was causing her.
