@@ -33,12 +33,12 @@ Dragon RP enforces a rating of "3/1/3" per the [RPG Rating System](https://rpgra
 <table>
     <tr>
         <th>Language (3)</th>
-        <th>Sex (1)</th>
+        <th>Sex (3)</th>
         <th>Violence (3)</th>
     </tr>
     <tr>
         <td>Swearing and mature language is permitted.</td>
-        <td>Mild sexual innuendo and references permitted.</td>
+        <td>Graphical sexual innuendo and references permitted.</td>
         <td>Graphic violence is permitted.</td>
     </tr>
 </table>
