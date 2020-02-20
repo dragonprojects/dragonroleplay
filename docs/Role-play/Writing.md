@@ -19,6 +19,13 @@ Powerplay is forbidden under all circumstances and must be followed by all playe
 
 ## General writing advice
 
+* Use your common sense
+
+I think this needs no more explanation.
+
+!!! example
+    2+2=4
+
 * Add some foreshadowing
 
 It can be hard to use foreshaodwing in role-play as you can't completely predict the actions of the other players. Instead, use it to foreshadow something your character will do and watch others react accordingly!
