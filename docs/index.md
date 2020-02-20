@@ -63,7 +63,7 @@ It's best to discuss any changes with the community and the administartors on ou
     By pushing your changes, you give Dragon RP the right to use your text for whatever purpose. We will be allowed to remove or change it in the future.
 
 ### Donating
-We currently do not accept financial donations for Dragon RP. Thank you for your interest!
+paypal.me/pools/c/81bZxeMwDA
 
 ## Contact us
 We can be contacted through several means:
