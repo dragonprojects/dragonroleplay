@@ -3,9 +3,9 @@
 !!! warning
     This page is still being reviewed and still has to be correctly formatted.
 
-In the 17th Century the Red Union was created. Its exact origins remain shrouded in mystery for now.
+In the 17<sub>th</sub> Century the Red Union was created. Its exact origins remain shrouded in mystery for now.
 
-In the beginning of the 20th Century the Red Union decided to go for a bold action. This was the Golden Age of the Red Union, their goal was to stay here forever, they wanted to plan ahead. Its smartest scientists determined that an underground shortage would arise within a few hundred years if the human race continued to expand much further. This would raise havoc and threaten the high position the state is in. 
+In the beginning of the 20<sub>th</sub> Century the Red Union decided to go for a bold action. This was the Golden Age of the Red Union, their goal was to stay here forever, they wanted to plan ahead. Its smartest scientists determined that an underground shortage would arise within a few hundred years if the human race continued to expand much further. This would raise havoc and threaten the high position the state is in. 
 
 The Red Union saw one option, one option so bold that no scientist proposed it. But the Union was also very militaristically minded, so, they decided to start a new plan, shrouded in secrecy, called: Operation Revolt. Its premise was simple: Send Vondal Loderr, who later became on of the highest officers of the USSR, to the surface. Then make him gather support for the Red Union's moral system, known to surface dwellers as 'communism', only to overthrow a government and start a powerful nation that would serve as a way to leach of the surface earth. This would give the Red Union a huge advantage over any other nation underground, as it would be completely immune from the imminent shortage. Not only that, but it would also give way for the first underground nation to start exploring space, which, the Red Union's committee determined would become on of the most vital places to expand to. The comittee determined Russia would be the best target, as their political and economic instability combined with their already communist minority and massive lands gave way for great potential.
 
