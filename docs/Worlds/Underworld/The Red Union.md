@@ -1,7 +1,7 @@
 # The Red Union
 
 !!! warning
-    This page is still being reviewed.
+    This page is still being reviewed and still has to be correctly formatted.
 
 In the 17th Century the Red Union was created. Its exact origins are unspecified for now.
 	In the beginning of the 20th Century the Red Union decided to go for a bold action. This was the Golden Age of the Red Union, their goal was to stay here forever, they wanted to plan ahead. Its smartest scientists determined that an underground shortage would arise within a hundred years, and that there was nothing they could do. This would mean a global crash would raise havoc and threaten the high position the state is in. 
