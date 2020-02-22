@@ -1,3 +1,12 @@
 # Vestroia
-!!! warning
-    This wiki entry is coming soon!
+
+Vestroia is a land filled with lush forests in the west and peeking mountains in the east. It is known for its thriving cities and booming economy. At least, that used to be the case. As humanity's consumerism only increased, taking resources away from anybody living in the underworld, Vestroia got affected too. The peace the land was once known for has been disappearing over the past years with poverty, unemployment and crime slowly but surely on the rise. The king, beloved and conservative, now has to make controversial and radical decisions in order to steer Vestroia in the right direction.
+
+## History
+A long time ago, Vestoria was a dictatorship, a land in control of a malevolent lord in control of a dark, unknown power, allowing him to corrupt people's minds with his magic. It spread like an infectious disease. It was making its way to every corner of the land where where once a humble dragon family lived. Whatever happened to the minds of the other civilians, one man did not want it to happen with the people he held dear to his heart. He had already seen the horror of his friends slowly losing what they once were.
+
+He travelled to the center of the land, to the castle where the lord lived. No weapons, just a spell that protected him from the corruption around him. He was here to talk. The lord let him in, walk up to him in his throne room, no questions asked.
+
+He begged for mercy. He was willing to do everything. The hope the lord saw in the humble person's eyes gave him sadistic pleasure. He would leave his family alone, if only he were to willingly offer himself and any future defendants of his as his loyal companion, for the lord said he was to live longer than him and wanted an accomplice for eternity. The lord sat alone in his castle all day and was in need of a friend. Reluctantly, he agreed, for the lord would not agree to any other conditions.
+
+He let down his guard and willingly allowed to let the darkness corrupt him. He now surged with power, enough to serve his powerful lord. His good heart was taken over, except it wasn't. His heart was pure of goodwill, so much so that his magic did not affect him enough to lose himself. Behind the lord's back, he prepared his demise, together with all the people that the corruption hadn't reached yet. It took many years, but eventually, when the lord seemed untouchable and all hope seemed lost, his reign was ended. The final blow: a blue fire penetrating his blaze. The corruption was absorbed by our hero and civilisation returned to normal. He was chosen by the people to rule as their king. Ever since then, he and his family ruled the lands with pride and love up to now.
