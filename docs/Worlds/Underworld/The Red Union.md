@@ -4,6 +4,7 @@
     Information is still being added to this page.
 
 ## History
+
 !!! warning
     This only covers the recent history of the nation. Earlier history has yet to be written.
 
