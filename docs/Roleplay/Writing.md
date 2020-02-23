@@ -10,7 +10,7 @@ Stick to a third person point of view in your writing. This makes it clearer to 
     
 * No powerplay
 
-Powerplay refers to a player shifting a story into their character's (or characters') favour. This can happen in several ways, like not keeping in-world limitations, physics and logic in mind. It may also occur that one player takes control of another player's character. In the example below, a boy who only knows fire spells is for no apparant reason able to use lightning attacks. In the same sentence, it is dictated that the lightning attack lands on the female character (in this instance played by someone else) without giving her the oppurtunity to counter od dodge. 
+Powerplay refers to a player shifting a story into their character's (or characters') favour. This can happen in several ways, like not keeping in-world limitations, physics and logic in mind. It may also occur that one player takes control of another player's character. In the example below, a boy who only knows fire spells is for no apparant reason able to use lightning attacks. In the same sentence, it is dictated that the lightning attack lands on the female character (in this instance played by someone else) without giving her the oppurtunity to counter a dodge. 
 
 !!! example
     The boy who only knew fire spells was suddenly able to hit her with a lightning attack.
