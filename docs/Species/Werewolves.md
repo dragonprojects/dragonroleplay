@@ -4,7 +4,7 @@ Humanoids with the ability to shape-shift into a wolf-like creature. It's said t
 <table>
   <tr>
     <th>Length</th>
-    <td>Same or differs slightly from original species.</td>
+    <td>Same or differs slightly from original species</td>
   </tr>
   <tr>
     <th>Weight</th>
