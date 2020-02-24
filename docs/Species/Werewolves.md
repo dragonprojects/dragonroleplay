@@ -1,8 +1,16 @@
 # Werewolves
 Humanoids with the ability to shape-shift into a wolf-like creature. It's said that a rare disease from long ago occurring only in wild beasts made its way to other creatures in the form of lycanthropy. Others, mainly werewolves, argue it's a gift that has been bestowed upon them.
 
-| Length: | Same or differs slightly from original species((The being's species before being turned into a werewolf.)) |
-| Weight: | Often slightly heavier than original species((The being's species before being turned into a werewolf.)) |
+<table>
+  <tr>
+    <th>Length</th>
+    <td>Same or differs slightly from original species.</td>
+  </tr>
+  <tr>
+    <th>Weight</th>
+    <td>Often slightly heavier than original species</td>
+  </tr>
+</table>
 
 ## Abilities
 Werewolves usually enjoy a heightened sense of smell, improved hearing, increased strength, speed and more. Size, weight and other aspects of the werewolf are relative to the creature's species. They become slightly taller and grow fur on various places of their body. Their face also becomes more wolf-like.
