@@ -30,6 +30,6 @@ In short, if you make powerful characters, make sure you balance them accordingl
 Your inventory needn't be clearly defined. Based on your skill and ability set and depending on the situation, you will have the items with you that would be sensible for you to have.
 
 !!! example
-    As a knight, you may have a sword with you, whereas a mage may have scrolls with them. When climbing a mounting, it makes sense for you to have things like pitons and rope.
+    As a knight, you may have a sword with you, whereas a mage may have scrolls with them. When climbing a mountain, it makes sense for you to have things like pitons and rope.
 
-If you come across an item that gives you a new ability, you need to update your character sheet with this new ability.
+If you come across an item that gives you a major new ability, you need to update your character sheet to reflect this. Such items can usually only be aquired in special cases, like as a reward for an extensive quest.
