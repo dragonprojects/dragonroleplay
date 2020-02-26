@@ -14,8 +14,8 @@ Communication makes sure I has a constant flow of money and that the organisatio
 ### Technology
 Technology is the department that makes new  technology for 'I' and experiments with how to use magical items to our adventage.
 
-### Hunters/gathers
-hunter/gathers is the part of the organisation that solely focusses on hunting down trespassers of the overworld(TOTO's) and capturing/killing them so the general public wont know about them and to protect humans from non-human threats
+### Hunters-gathers
+Hunter-gatherers are the part of the organisation that solely focusses on hunting down trespassers of the overworld(TOTO's) and capturing/killing them so the general public wont know about them and to protect humans from non-human threats
 
 ### Facilitairs
 Facilitairs are the main workers of 'I', they are there to make sure the facilities 'I' works from stay operational
