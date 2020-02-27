@@ -3,6 +3,7 @@ backend:
   repo: jelle619/dragonrp
   branch: master
 
+logo_url: ../assets/logo.png
 public_folder: "docs/"
 media_folder: "site/assets"
 publish_mode: editorial_workflow
