@@ -5,8 +5,8 @@
 # \___ \\ \ / /|  \| |
 #  ___) |\ V / | |\  |
 # |____/  \_/  |_| \_|
- 
-python3 svn export https://github.com/jelle619/jellezwie.rs/trunk/mkdocs/characters/docs/Dragon%20RP docs/Characters
+
+svn export https://github.com/jelle619/jellezwie.rs/trunk/mkdocs/characters/docs/Dragon%20RP docs/Characters
 
 #  __  __ _    ____
 # |  \/  | | _|  _ \  ___   ___ ___
