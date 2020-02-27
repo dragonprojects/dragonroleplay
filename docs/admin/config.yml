@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: jelle619/dragonrp
+  name: git-gateway
   branch: master
 
 logo_url: ../assets/logo.png
