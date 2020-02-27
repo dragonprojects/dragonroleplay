@@ -23,9 +23,9 @@ markdown_extensions:
 
 # Import
 extra_css:
-  - "style.css"
+  - "assets/style.css"
 extra_javascript:
-  - "script.js"
+  - "assets/script.js"
 
 # Repository
 repo_url: "https://github.com/jelle619/dragonrp"
