@@ -55,12 +55,14 @@ There are a number of ways you can help.
 Being active gives us a great amount of motivation to expand Dragon RP. Thank you for being with us!
 
 ### Expand the wiki
-Would you like to add to an entry on this wiki? Use the edit button in the top-right corner of the page you would like to modify, login with your GitHub account and push the changes. They will be revieved by an administrator before being published.
+Would you like to add to an entry on this wiki? Use the edit button in the top-right corner of the page you would like to modify, login with your GitHub account and do a pull request. They will be revieved by an administrator before being published.
 
-It's best to discuss any changes with the community and the administartors on our [Discord server](https://discord.gg/MJ2HGkT) before starting!
+It's best to discuss any changes with the community  on our [Discord server](https://discord.gg/MJ2HGkT) before starting!
 
 !!! info
-    By pushing your changes, you give Dragon RP the right to use your text for whatever purpose. We will be allowed to remove or change it in the future.
+    When your edits are merged with the site, your contibution will be licensed under the same license as other content on this site.
+    
+Administrators or those otherwise privileged can use <a href="admin/index.html">Netlify CMS</a> to make contribututions to the wiki without using Git or GitHub's interface.
 
 ### Donating
 We currently do not accept financial donations for Dragon RP. Thank you for your interest!
