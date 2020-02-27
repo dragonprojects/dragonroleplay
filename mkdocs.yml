@@ -29,7 +29,7 @@ extra_javascript:
 
 # Repository
 repo_name: "GitHub"
-repo_url: "/wiki/admin/"
+repo_url: "https://rp.dragonprojects.nl/wiki/admin/"
 edit_uri: "edit/master/docs/"
 
 # Copyright
