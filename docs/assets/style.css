@@ -6,3 +6,7 @@
   visibility: hidden;
   display: none;
 }
+
+.md-footer-copyright:after {
+  content: ", hosted by Netlify";
+}
