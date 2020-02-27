@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: capriosa/mkdocs-cms
+  repo: jelle619/dragonrp
   branch: master
 
-public_folder: "site"
+public_folder: "docs/"
 media_folder: "site/assets"
 publish_mode: editorial_workflow
 
