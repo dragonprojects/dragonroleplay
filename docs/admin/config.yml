@@ -1,9 +1,10 @@
 backend:
   name: github
   repo: jelle619/dragonrp
+  open_authoring: true
 
 logo_url: ../assets/logo.png
-public_folder: "docs/"
+public_folder: "wiki/assets"
 media_folder: "docs/assets"
 publish_mode: editorial_workflow
 
