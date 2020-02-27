@@ -3,4 +3,4 @@
 ![Last update badge](https://img.shields.io/github/last-commit/jelle619/dragonrp?label=last%20update&style=for-the-badge) ![Update activity badge](https://img.shields.io/github/commit-activity/m/jelle619/dragonrp?label=Update%20activity&style=for-the-badge)
 
 ## Licensing
-Any custom code is licensed under the Mozilla Public License 2.0. The contents of the Dragon RP Wiki is licensed under CC BY-NC-SA 4.0. All rights are reserved on logos and icons or Dragon Projects or Dragon RP.
+Any custom code is licensed under the Mozilla Public License 2.0. Text on the Dragon RP Wiki is licensed under CC BY-NC-SA 4.0. All rights are reserved on logos and icons of Dragon Projects or Dragon RP.
