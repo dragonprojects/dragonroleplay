@@ -5,7 +5,7 @@ backend:
 
 logo_url: ../assets/logo.png
 public_folder: "docs/"
-media_folder: "site/assets"
+media_folder: "docs/assets"
 publish_mode: editorial_workflow
 
 collections:
