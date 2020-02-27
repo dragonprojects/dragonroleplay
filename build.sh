@@ -14,4 +14,4 @@ mkdocs build --clean --config-file mkdocs.yml --site-dir wiki
 #  ___) |\ V / | |\  |
 # |____/  \_/  |_| \_|
  
-svn export https://github.com/jelle619/jellezwie.rs/trunk/mkdocs/characters/docs/Dragon%20RP docs/Characters
+python3 svn export https://github.com/jelle619/jellezwie.rs/trunk/mkdocs/characters/docs/Dragon%20RP docs/Characters
