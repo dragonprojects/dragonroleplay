@@ -28,7 +28,8 @@ extra_javascript:
   - "assets/script.js"
 
 # Repository
-repo_url: "https://github.com/jelle619/dragonrp"
+repo_name: "GitHub"
+repo_url: "/wiki/admin"
 edit_uri: "edit/master/docs/"
 
 # Copyright
