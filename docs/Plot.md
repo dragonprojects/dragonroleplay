@@ -1,5 +1,4 @@
----
-title: Test
----
+# Plot
+
 !!! warning
     This wiki entry is coming soon!
