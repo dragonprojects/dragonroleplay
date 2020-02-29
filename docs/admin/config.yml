@@ -15,5 +15,7 @@ collections:
     folder: "docs"
     create: true
     slug: "{{slug}}"
+    preview_path: wiki/{{filename}}
     fields:
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
