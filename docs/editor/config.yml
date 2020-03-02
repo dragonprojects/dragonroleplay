@@ -16,6 +16,6 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: wiki/{{filename}}
-    summary: {{filename}}
+    summary: "{{filename}}"
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
