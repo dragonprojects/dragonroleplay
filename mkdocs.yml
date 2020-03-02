@@ -29,7 +29,7 @@ extra_javascript:
 
 # Repository
 repo_url: "https://github.com/jelle619/dragonrp"
-edit_uri: "edit/master/docs/"
+edit_uri: "" # set to "edit/master/docs/" if you would like to use GitHub
 
 # Copyright
 copyright: "Proudly licensed under CC BY-NC-SA 4.0 by Dragon Projects"
