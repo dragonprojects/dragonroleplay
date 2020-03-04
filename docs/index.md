@@ -25,7 +25,7 @@ Create a [Discord account](https://discordapp.com/register) and join the Dragon 
 
 !!! info
     In the future, we may move away from Discord to a dedicated platform. From this point onward, you are no longer obliged to have and use a Discord account.
-    
+
 * You must agree to our RPG rating.
 
 Dragon RP enforces a rating of "3/1/3" per the [RPG Rating System](https://rpgrating.com/). This rating is described below.
@@ -55,14 +55,14 @@ There are a number of ways you can help.
 Being active gives us a great amount of motivation to expand Dragon RP. Thank you for being with us!
 
 ### Expand the wiki
-Would you like to add to an entry on this wiki? Use the edit button in the top-right corner of the page you would like to modify, login with your GitHub account and do a pull request. They will be revieved by an administrator before being published.
+Would you like to add to an entry on this wiki? Go to the [wiki editor interface](/wiki/editor), login with your GitHub account and submit your changes for review. They will be reviewed by an administrator before being published.
 
 It's best to discuss any changes with the community  on our [Discord server](https://discord.gg/MJ2HGkT) before starting!
 
 !!! info
-    When your edits are merged with the site, your contibution will be licensed under the same license as other content on this site.
-    
-Administrators or those otherwise privileged can use <a href="admin/index.html">Netlify CMS</a> to make contribututions to the wiki without using Git or GitHub's interface.
+    When your edits are merged with the site, your contribution will be licensed under the same license as the other content on this site.
+
+You can also make contributions by using our [GitHub repository](https://github.com/jelle619/dragonrp).
 
 ### Donating
 We currently do not accept financial donations for Dragon RP. Thank you for your interest!
