@@ -40,7 +40,7 @@ collections:
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
 
-   - name: "organisations"
+  - name: "organisations"
     label: "Organisations"
     folder: "docs/organisations"
     create: true
