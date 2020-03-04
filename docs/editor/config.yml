@@ -10,8 +10,8 @@ public_folder: "wiki/assets"
 media_folder: "docs/assets"
 
 collections:
-  - name: "home"
-    label: "Home"
+  - name: "root"
+    label: "Root"
     folder: "docs"
     create: true
     slug: "{{slug}}"
