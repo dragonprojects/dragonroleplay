@@ -19,7 +19,7 @@ collections:
     summary: "{{filename}}"
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
-          
+
   - name: "culture"
     label: "Culture"
     folder: "docs/culture"
@@ -29,8 +29,8 @@ collections:
     summary: "{{filename}}"
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
-      
-   - name: "innerworkings"
+
+  - name: "innerworkings"
     label: "Innerworkings"
     folder: "docs/innerworkings"
     create: true
@@ -39,7 +39,7 @@ collections:
     summary: "{{filename}}"
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
-      
+
    - name: "organisations"
     label: "Organisations"
     folder: "docs/organisations"
@@ -49,8 +49,8 @@ collections:
     summary: "{{filename}}"
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
-      
-   - name: "roleplay"
+
+  - name: "roleplay"
     label: "Roleplay"
     folder: "docs/roleplay"
     create: true
@@ -60,7 +60,7 @@ collections:
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
 
-   - name: "species"
+  - name: "species"
     label: "Species"
     folder: "docs"
     create: true
@@ -70,7 +70,7 @@ collections:
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
 
-   - name: "worlds"
+  - name: "worlds"
     label: "Worlds"
     folder: "docs/worlds"
     create: true
@@ -80,7 +80,7 @@ collections:
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
 
-   - name: "plot"
+  - name: "plot"
     label: "Plot"
     folder: "docs/plot"
     create: true
