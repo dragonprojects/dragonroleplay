@@ -10,12 +10,82 @@ public_folder: "wiki/assets"
 media_folder: "docs/assets"
 
 collections:
-  - name: "doc"
-    label: "Doc"
+  - name: "home"
+    label: "Home"
     folder: "docs"
     create: true
     slug: "{{slug}}"
     preview_path: wiki/{{filename}}
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+          
+  - name: "culture"
+    label: "Culture"
+    folder: "docs/culture"
+    create: true
+    slug: "{{slug}}"
+    preview_path: wiki/culture/{{filename}}
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+   - name: "innerworkings"
+    label: "Innerworkings"
+    folder: "docs/innerworkings"
+    create: true
+    slug: "{{slug}}"
+    preview_path: wiki/innerworkings/{{filename}}
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+   - name: "organisations"
+    label: "Organisations"
+    folder: "docs/organisations"
+    create: true
+    slug: "{{slug}}"
+    preview_path: wiki/organisations/{{filename}}
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+   - name: "roleplay"
+    label: "Roleplay"
+    folder: "docs/roleplay"
+    create: true
+    slug: "{{slug}}"
+    preview_path: wiki/roleplay/{{filename}}
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+
+   - name: "species"
+    label: "Species"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    preview_path: wiki/species/{{filename}}
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+
+   - name: "worlds"
+    label: "Worlds"
+    folder: "docs/worlds"
+    create: true
+    slug: "{{slug}}"
+    preview_path: wiki/worlds/{{filename}}
+    summary: "{{filename}}"
+    fields:
+      - {label: "Body", name: "body", widget: "markdown"}
+
+   - name: "plot"
+    label: "Plot"
+    folder: "docs/plot"
+    create: true
+    slug: "{{slug}}"
+    preview_path: wiki/plot/{{filename}}
     summary: "{{filename}}"
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
