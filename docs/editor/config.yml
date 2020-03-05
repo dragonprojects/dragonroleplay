@@ -70,16 +70,6 @@ collections:
     fields:
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "worlds"
-    label: "Worlds"
-    folder: "docs/worlds"
-    create: true
-    slug: "{{slug}}"
-    preview_path: wiki/worlds/{{filename}}
-    summary: "{{filename}}"
-    fields:
-      - {label: "Body", name: "body", widget: "markdown"}
-
   - name: "plot"
     label: "Plot"
     folder: "docs/plot"
