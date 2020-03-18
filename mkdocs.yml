@@ -1,5 +1,5 @@
 # Metadata
-site_name: Dragon RP
+site_name: Dragon Roleplay
 site_description: "The site that will help kickstart your role-play"
 site_author: "Dragon Projects"
 
@@ -28,7 +28,7 @@ extra_javascript:
   - "assets/script.js"
 
 # Repository
-repo_url: "https://github.com/jelle619/dragonrp"
+repo_url: "https://github.com/dragonprojects/dragonroleplay"
 edit_uri: "" # set to "edit/master/docs/" if you would like to use GitHub
 
 # Copyright
