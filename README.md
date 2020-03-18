@@ -7,4 +7,4 @@ This is the repository of Dragon Roleplay. Here, all the neccesairy code and res
 As for what Dragon Roleplay itself is, it is is a role-playing forum with a unique blend of fantasy and science fiction. Players start by creating their own characters, after which they can join a thread in which they will use them to play out stories that happen in the Dragon Roleplay universe. Your characters can influence other player's ones and, ultimately, also the world's fate, so be careful!
 
 ## Licensing
-Any custom code is licensed under the Mozilla Public License 2.0. Text on the Dragon Roleplay Wiki is licensed under CC BY-NC-SA 4.0. All rights are reserved on logos and icons of Dragon Projects or Dragon Roleplay.
+Any custom code is licensed under the Mozilla Public License 2.0. Text on the Dragon Roleplay Wiki is licensed under CC BY-NC-SA 4.0 (unless otherwise mentioned), with the exception of characters, whose copyright belongs to the individual author. All rights are reserved on logos and icons of Dragon Projects or Dragon Roleplay.
