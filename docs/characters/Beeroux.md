@@ -1,6 +1,4 @@
 # Beeroux
-!!! warning
-    This character has yet to be updated for use in Dragon Roleplay. As such, it is a work in progress.
 
 <table>
   <tr>
