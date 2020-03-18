@@ -1,13 +1,5 @@
 #!/bin/bash
 
-#  ______     ___   _ 
-# / ___\ \   / / \ | |
-# \___ \\ \ / /|  \| |
-#  ___) |\ V / | |\  |
-# |____/  \_/  |_| \_|
-
-svn export https://github.com/jelle619/jellezwie.rs/trunk/mkdocs/characters/docs/Dragon%20RP docs/Characters
-
 #  __  __ _    ____
 # |  \/  | | _|  _ \  ___   ___ ___
 # | |\/| | |/ / | | |/ _ \ / __/ __|

@@ -1,3 +1,2 @@
-svn
 mkdocs
 mkdocs-material==4.6.0
