@@ -5,13 +5,12 @@ backend:
 
 publish_mode: editorial_workflow
 
-logo_url: ../assets/logo.png
-public_folder: "wiki/assets"
-media_folder: "docs/assets"
+logo_url: /assets/logo.png
 
 collections:
   - name: "characters"
     label: "Characters"
+    label_singular: "Character"
     folder: "docs/characters"
     create: true
     slug: "{{slug}}"
