@@ -2,10 +2,10 @@
 You are currently viewing the wiki portion of the site. Thank you for visiting.
 
 ![Netlify](https://img.shields.io/netlify/371397fe-a565-4cca-aea6-75aa6e7ac531?style=for-the-badge)
-![Last update badge](https://img.shields.io/github/last-commit/jelle619/dragonrp?label=last%20update&style=for-the-badge) ![Update activity badge](https://img.shields.io/github/commit-activity/m/jelle619/dragonrp?label=Update%20activity&style=for-the-badge)
+![Last update badge](https://img.shields.io/github/last-commit/dragonprojects/dragonroleplay?label=last%20update&style=for-the-badge) ![Update activity badge](https://img.shields.io/github/commit-activity/m/dragonprojects/dragonroleplay?label=Update%20activity&style=for-the-badge)
 
 ## What is this?
-Dragon RP is a role-playing forum with a unique blend of fantasy and science fiction. Players start by creating their own characters, after which they can join a thread in which they will use them to play out stories that happen in the Dragon RP universe. Your characters can influence other player's ones and, ultimately, also the world's fate, so be careful!
+Dragon Roleplay is a role-playing forum with a unique blend of fantasy and science fiction. Players start by creating their own characters, after which they can join a thread in which they will use them to play out stories that happen in the Dragon Roleplay universe. Your characters can influence other player's ones and, ultimately, also the world's fate, so be careful!
 
 This wiki contains most information about the our world that might be needed in your role-play. Please note that there may be exceptions to things stated on the wiki, especially in regards to species.
 
@@ -21,14 +21,11 @@ Due to legal legislation, we currently do not accept members younger than sixtee
 
 * You must agree to use Discord.
 
-Create a [Discord account](https://discordapp.com/register) and join the Dragon RP [Discord server](https://discord.gg/MJ2HGkT).
-
-!!! info
-    In the future, we may move away from Discord to a dedicated platform. From this point onward, you are no longer obliged to have and use a Discord account.
+Create a [Discord account](https://discordapp.com/register) and join the Dragon Roleplay [Discord server](https://discord.gg/MJ2HGkT).
 
 * You must agree to our RPG rating.
 
-Dragon RP enforces a rating of "3/1/3" per the [RPG Rating System](https://rpgrating.com/). This rating is described below.
+Dragon Roleplay enforces a rating of "3/1/3" per the [RPG Rating System](https://rpgrating.com/). This rating is described below.
 
 <table>
     <tr>
@@ -52,7 +49,7 @@ In the meantime, browse through this wiki to learn more about the world you will
 There are a number of ways you can help.
 
 ### Be active
-Being active gives us a great amount of motivation to expand Dragon RP. Thank you for being with us!
+Being active gives us a great amount of motivation to expand Dragon Roleplay. Thank you for being with us!
 
 ### Expand the wiki
 Would you like to add to an entry on this wiki? Go to the [wiki editor interface](/wiki/editor), login with your GitHub account and submit your changes for review. They will be reviewed by an administrator before being published.
@@ -62,10 +59,10 @@ It's best to discuss any changes with the community  on our [Discord server](htt
 !!! info
     When your edits are merged with the site, your contribution will be licensed under the same license as the other content on this site.
 
-You can also make contributions by using our [GitHub repository](https://github.com/jelle619/dragonrp).
+You can also make contributions by using our [GitHub repository](https://github.com/dragonprojects/dragonroleplay).
 
 ### Donating
-We currently do not accept financial donations for Dragon RP. Thank you for your interest!
+We currently do not accept financial donations for Dragon Roleplay. Thank you for your interest!
 
 ## Contact us
 We can be contacted through several means:
