@@ -52,7 +52,9 @@ There are a number of ways you can help.
 Being active gives us a great amount of motivation to expand Dragon Roleplay. Thank you for being with us!
 
 ### Expand the wiki
-Would you like to add to an entry on this wiki? Go to the [wiki editor interface](/wiki/editor), login with your GitHub account and submit your changes for review. They will be reviewed by an administrator before being published.
+Would you like to add to an entry on this wiki? You can make contributions by using our [GitHub repository](https://github.com/dragonprojects/dragonroleplay).
+
+If you would like to edit one of your characters, you can, besides using our GitHub respoitory, also make use of our [character editor interface](/editor). Login with your GitHub account and submit your changes for review. They will be reviewed by an administrator before being published.
 
 It's best to discuss any changes with the community  on our [Discord server](https://discord.gg/MJ2HGkT) before starting!
 
