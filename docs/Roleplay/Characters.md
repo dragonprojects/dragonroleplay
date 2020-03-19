@@ -1,5 +1,7 @@
 # Characters
 
+Characters are essential to your adventure. These are what you use to interact with the world of Dragon Roleplay. You can play and become anybody!
+
 ## Applications
 In order to use your character in a thread, you must submit a character information sheet. We recommend you to include the following information:
 
