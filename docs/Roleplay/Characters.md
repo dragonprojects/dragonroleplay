@@ -15,7 +15,7 @@ In order to use your character in a thread, you must submit a character informat
 
 Of course, you may include whatever else you want, like images or extra tidbits about your character.
 
-Your character sheet must be contained in a markdown file. Once you have created your character information sheet, you must upload this file and submit it for approval to an administrator. We will let you know as soon as possible whether your character is approved or whether something is still missing. Once your character is approved, you can immedietly start using it in role-play!
+Your character sheet must be contained in a markdown file. Once you have created your character information sheet, you must upload this file and submit it for approval to an administrator. We will let you know as soon as possible whether your character is approved or whether something is still missing. Once your character is approved, you can immediately start using it in role-play!
 
 !!! help
     If you don't know how to create a markdown file, consider using an online editor like [Dillinger](https://dillinger.io/) and export it as a markdown file from there.

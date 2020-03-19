@@ -5,6 +5,8 @@
 
 'I' is an mysterious and anonymous organisation based around keeping order in the overworld. 'I' is there to make sure no non-overworld creature gets to roam the overworld as human society is not yet ready to accept these "mythical creatures" into their society.
 
+The original purpose of 'I' was to integrate the society of the underworld with that of the overworld. However, these attempts were unsuccessful.
+
 ## Departments
 The organisation has 4 main departments.
 
@@ -12,7 +14,7 @@ The organisation has 4 main departments.
 Communication makes sure I has a constant flow of money and that the organisation stays a secret.
 
 ### Technology
-Technology is the department that makes new  technology for 'I' and experiments with how to use magical items to our adventage.
+Technology is the department that makes new  technology for 'I' and experiments with how to use magical items to our advantage.
 
 ### Hunters-gathers
 Hunter-gatherers are the part of the organisation that solely focusses on hunting down trespassers of the overworld(TOTO's) and capturing/killing them so the general public wont know about them and to protect humans from non-human threats
