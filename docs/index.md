@@ -21,7 +21,7 @@ Due to legal legislation, we currently do not accept members younger than sixtee
 
 * You must agree to use Discord.
 
-Create a [Discord account](https://discordapp.com/register) and join the Dragon Roleplay [Discord server](https://discord.gg/MJ2HGkT).
+Create a [Discord account](https://discordapp.com/register) and join the Dragon Roleplay [Discord server](https://discord.gg/DagHsG9).
 
 * You must agree to our RPG rating.
 
