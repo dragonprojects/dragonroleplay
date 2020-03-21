@@ -69,7 +69,7 @@ We currently do not accept financial donations for Dragon Roleplay. Thank you fo
 ## Contact us
 We can be contacted through several means:
 
-* [Join our Discord server](https://discord.gg/MJ2HGkT)
+* [Join our Discord server](https://discord.gg/DagHsG9)
 * [Use our contact form](https://jellezwie.rs/#contact)
 
 You will usually receive a faster response by contacting us via Discord.
