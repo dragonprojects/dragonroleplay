@@ -31,7 +31,7 @@ You can send your character sheet to one of our administrators as a markdown fil
     If you don't know how to create a markdown file, consider using an online editor like [Dillinger](https://dillinger.io/) and export it as a markdown file from there.
 
 ### Balancing
-Technically, any character can be made as powerful as you want them to be. However, all characters with magical abilities are subjected to our [magic system](/wiki/innerworkings/magic/). They must also abide the strentgh/weakness rule. This means that all characters' strengths must be balanced a weakness or consequence if their powers are too extravagant.
+Technically, any character can be made as powerful as you want them to be. However, all characters with magical abilities are subjected to our [magic system](/innerworkings/magic). They must also abide the strentgh/weakness rule. This means that all characters' strengths must be balanced a weakness or consequence if their powers are too extravagant.
 
 !!! example
     If your character is able to kill someone very powerful, there must be consequences for him or her to do that action, something that would make it impossible or undesirable so that it would be a last resort only. If your character is incredibly powerful with fire magic, it makes sense to counter this strength with a weakness to to the cold.
